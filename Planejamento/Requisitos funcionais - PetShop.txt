@@ -1,0 +1,26 @@
+Entrada:
+	- Cadastro empresa;
+	- Cadastro fornecedores;
+	- Cadastro tipos de funcionarios;
+	- Cadastro funcionários;
+	- Cadastro donos;
+	- Cadastro animais clientes;
+	- Cadastro tipos de animais que a loja atende;
+	- Cadastro produtos;
+	- Cadastro serviços;
+	- Cadastro de vendas;
+	
+Processamento:
+	- Login de funcionários;
+	- Vender produtos e serviços;
+	- Registrar vendas e serviços;
+	- Pagar funcionários;
+	- Alterar salário dos funcionários;
+	- Gerenciar produtos em estoque;
+	- Gerenciar validade dos produtos;
+	- Gerenciar vendas;
+
+Saída:
+	- Emitir nota fiscal;
+	- Emitir histórico de vendas;
+	- Emitir comprovante de pagamento;

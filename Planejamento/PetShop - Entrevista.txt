@@ -1,0 +1,51 @@
+1 - Qual a finalidade do sistema? (Cadastro? Monitorar dados? Monitorar vendas? [...])
+	R.: Precisamos de tudo isso: um sistema de cadastro para a empresa, para os fornecedores, para
+	os produtos e serviços vendidos, para os funcionários, para os donos dos animais, animais clientes 
+	e de um sistema que monitore as vendas de produtos e serviços realizadas pelo estabelecimento.
+
+2 - Quais tipos de funcionários seu PetShop terá?
+	R.: O PetShop terá atendentes, os que cuidam da reposição das prateleiras, os que cuidam das aquisições
+	com os fornecedores, os que aplicam vacinas e dão banhos, os entregadores, os faxineiros, um supervisor geral e um gerente.
+
+3 - A loja é especializada em qual(is) tipos te animal(is)?
+	R.: A loja atende gatos, cachorros e aves domésticas.
+
+4 - Quais tipos de serviços o PetShop vende?
+	R.: O PetShop oferece os seguintes serviços:
+		1. V nbm nb  acinação
+		2. Banho
+		3. Tosa
+
+5 - O PetShop aplica quais tipos de vacinas?
+	R.: A Loja oferece as seguintes vacinas:
+		Para cães:
+			1. Antirrábica
+			2. Gripe Canina
+			3. Giardíase
+			4. Leishmaniose
+			5. Filariose
+		
+		Para gatos:
+			1. Panleucopenia
+			2. Raiva
+			3. Leucemia felina (Felv)
+			4. Complexo Respiratório Felino
+
+6 - Quais tipos de produtos o PetShop vende?
+	R.: A loja vende os seguintes produtos:
+		1. Brinquedos
+		2. Kits de higiene bucal para animais
+		3. Rações
+		4. Kits de banho para animais
+		5. Camas
+		6. Gaiolas para passarinhos
+		7. Remédios
+		8. Coleiras
+		9. Roupas
+		10. Vasilhas, caixas de areia...
+
+7 - Qual a quantidade média de clientes mensais?
+	R.: Temos em média 180 clientes mensais.
+
+8 - Onde o sistema opera? Desktop ou Web?
+	R.: O sistema irá operar em Desktop.
