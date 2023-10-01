@@ -66,6 +66,13 @@ ou será apenas operado pelos funcionários do petshop?
 12 - Quais serviços de controle de qualidade este sistema deverá oferecer?
 	R.: O primordial será o controle da validade dos produtos, principalmente vacinas e rações.
 
+13 - O sistema conterá um módulo para realizar compras dos fornecedores?
+	R.: Não, isso é feito de forma separada. Não precisa adicionar esta funcionalidade ao sistema.
+
+14 - Mas não seria interessante fazê-lo? Te daria mais controle sobre as mercadorias que entram, além das que saem.
+	R.: Mesmo assim, não precisa adicionar ao sistema. Nossos fornecedores já possuem um sistema de vendas muito eficiente,
+	o qual nós clientes já podemos verificar todos estes dados pelo site deles, bastando estar logado em nossas contas.
+
 13 - Por qual motivo este serviço está sendo contratado?
 	R.: Nosso sistema atual está se tornando obsoleto: antigamente, quando a loja era menor, ele
 	nos atendia perfeitamente. Atualmente, que a loja cresceu em muito, está difícil manter as
