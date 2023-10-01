@@ -1,0 +1,11 @@
+1 - Verificar validade dos produtos:
+    O sistema deverá monitorar a validade dos produtos em prateleira, incluindo vacinas.
+
+2 - Hardware:
+    O sistema deverá ser hospedado em um hardware de capacidade média/alta, capaz de suportar dados de até 400 clientes e 800 produtos. O sistema deve estar preparado para aguentar um volume maior de dados do que a média, para evitar problemas em dias de pico, por exemplo, e também para aumentar sua longevidade.
+
+3 - Foco e objetivo:
+    O sistema deverá ser de fácil operação, apesra de possuir muitos módulos. E, justamente por possuir muitos módulos, o sistema deverá conter apenas os módulos essenciais, que são os encomendados anteriormente pelo cliente e os que mantém o sistema funcionando. Outros módulos deverão ser adicionados em atualizações futuras, caso o cliente deseje, para evitar peso desnecessário e economizar o Processamento do hardware hospedeiro.
+
+4 - Design:
+    O sistema deverá ter um bom design, que faça com que os operadores tenham gosto de operá-lo. Isso reforça a qualidade do produto e, de certa forma, também facilita sua operação.

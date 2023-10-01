@@ -1,0 +1,96 @@
+1 - Qual a finalidade do sistema? (Cadastro? Monitorar dados? Monitorar vendas? [...])
+	R.: Precisamos de tudo isso: um sistema de cadastro para a empresa, para os fornecedores, para os produtos e serviços vendidos, para os funcionários, para os donos dos animais, animais clientes e de um sistema que monitore as vendas de produtos e serviços realizadas pelo estabelecimento.
+
+2 - Onde o sistema opera? Desktop ou Web?
+	R.: O sistema irá operar em Desktop.
+
+3 - Qual sistema operacional?
+	R.: Windows 10 e Windows 11.
+
+4 - Quais tipos de funcionários seu PetShop terá?
+	R.: O PetShop terá atendentes/secretários, os que cuidam da reposição das prateleiras, os que cuidam das aquisições com os fornecedores, os que aplicam vacinas e dão banhos, os entregadores, os faxineiros, um supervisor geral e um gerente.
+
+5 - A loja é especializada em qual(is) tipos te animal(is)?
+	R.: A loja atende gatos, cachorros e aves domésticas.
+
+6 - Quais tipos de serviços o PetShop vende?
+	R.: O PetShop oferece os seguintes serviços:
+		1. Vacinação
+		2. Banho
+		3. Tosa
+
+7 - Estes serviços serão realizados de forma imediata ou por agendamento?
+	R.: De ambas as formas. O cliente deverá poder agendar o serviço, mas caso o serviço não tenha sido agendado e o cliente chegue na loja, ele também poderá ser atendido. Entretanto, ele terá de aguardar até que os responsáveis pelo banho, vacinação e/ou tosa estejam vagos. O sistema, portanto, deverá ser capaz de registrar serviços não agendados anteriormente.
+
+8 - Este sistema irá conter módulos voltados para a interação com o cliente, como módulos de autoatendimento ou será apenas operado pelos funcionários do petshop?
+	R.: O sistema será operado apenas pelos funcionários da loja. Ainda não estamos pensando em sistemas mais sofisticados, com autoatendimento ou semelhantes.
+
+9 - Então, como será feito o agendamento?
+	R.: O agendamento será realizado por telefone ou por Whatsapp, e então o(a) secretário(a) realizará o agendamento.
+
+10 - Esta agenda deve estar presente no nosso sistema?
+	R.: Sim, mas nós já temos um sistema de agendas funcional. Esta é uma das poucas partes que podem ser reutilizadas. Mas sua equipe pode dar uma repaginada nela, se quiser, ou então criar seu próprio serviço de agenda. 
+
+11 - O PetShop aplica quais tipos de vacinas?
+	R.: A Loja oferece as seguintes vacinas:
+		Para cães:
+			1. Antirrábica
+			2. Gripe Canina
+			3. Giardíase
+			4. Leishmaniose
+			5. Filariose
+		
+		Para gatos:
+			1. Panleucopenia
+			2. Raiva
+			3. Leucemia felina (Felv)
+			4. Complexo Respiratório Felino
+
+12 - Quais tipos de produtos o PetShop vende?
+	R.: A loja vende os seguintes produtos:
+		1. Brinquedos
+		2. Kits de higiene bucal para animais
+		3. Rações
+		4. Kits de banho para animais
+		5. Camas
+		6. Gaiolas para passarinhos
+		7. Remédios
+		8. Coleiras
+		9. Roupas
+		10. Vasilhas, caixas de areia...
+
+13 - Qual a quantidade média de clientes mensais?
+	R.: Temos em média 300 clientes mensais.
+
+14 - Qual a média de produtos em estoque?
+	R.: Temos um estoque com uma média atual de 600 produtos.
+
+15 - O que acha do sistema operar com folga de 100 unidades (400 clientes/mês e 700 produtos), para evitar problemas em dias de pico?
+	R.: Acho pouco, na verdade: o sistema deverá ter capacidade para até 600 clientes mensais e 1000 produtos em estoque.
+
+16 - Quais formas de pagamento o sistema aceitará?
+	R.: O sistema aceitará cartão de crédito e débito, pix e dinheiro.
+
+17 - Quais serviços de controle de qualidade este sistema deverá oferecer?
+	R.: O primordial será o controle da validade dos produtos, principalmente vacinas e rações.
+
+18 - O sistema conterá um módulo para realizar compras dos fornecedores?
+	R.: Não, isso é feito de forma separada. Não precisa adicionar esta funcionalidade ao sistema.
+
+19 - Como funcionará o sistema de entregas?
+	R.: Os pedidos poderão ser feitos por Whatsapp, por telefone ou até mesmo pessoalmente. Em alguns casos, o cliente vem a pé e não consegue carregar toda a compra. Nestes casos, ele pode solicitar o serviço de entrega, também. Estes pedidos deverão ser registrados no sistema como "pedidos para entrega".
+
+20 - A loja conta com mais de um veículo de entrega?
+	R.: Sim. Atualmente, a loja conta com 2 veículos de entrega, mas que podem aumentar no futuro.
+
+21 - Mas não seria interessante fazê-lo? Te daria mais controle sobre as mercadorias que entram, além das que saem.
+	R.: Mesmo assim, não precisa adicionar ao sistema. Nossos fornecedores já possuem um sistema de vendas muito eficiente, o qual nós clientes já podemos verificar todos estes dados pelo site deles, bastando estar logado em nossas contas.
+
+22 - Por qual motivo este serviço está sendo contratado?
+	R.: Nosso sistema atual está se tornando obsoleto: antigamente, quando a loja era menor, ele nos atendia perfeitamente. Atualmente, que a loja cresceu em muito, está difícil manter as rédeas do negócio. Portanto, precisamos renovar o sistema atual.
+
+23 - Qual o orçamento?
+	R.: R$8,000.00
+
+24 - Quais os principais problemas do sistema atual?
+	R.: O sistema atual é lento, trava direto e não tem metade das funções que precisamos, como o controle de qualidade. Está difícil de controlar as vendas, o que dificulta a gestão: não sei com exatidão dizer quais produtos saem mais e quais menos para controlar o estoque e me atualizar em relação aos meus pedidos aos fornecedores. Estes, entre vários outros, são os principais problemas que enfrentamos atualmente com este sistema. 

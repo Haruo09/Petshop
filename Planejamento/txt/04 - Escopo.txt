@@ -1,0 +1,11 @@
+SISTEMA PARA O PETSHOP
+
+Este sistema possui a finalidade de substituir o sistema anterior do Petshop cliente. Deverá possuir um sistema de cadastro dos funcionários, contendo nome, CPF, data de nascimento, cargo, entre outras informações. Também deverá conter o cadastro da empresa (Petshop e suas informações), de seus produtos e de seus serviços, contendo informações como Nome do produto/serviço, validade (se for este o caso) e preço, além do cadastro de seus fornecedores, também.
+
+Vale ressaltar que um "cadastro" serve primordialmente para armazenamento de informações em um banco de dados, informações estas que o sistema pode (e deve) utilizar da melhor forma possível. Não necessariamente este estará atrelado a um sistema de login ou sequer de monitoramento. Por exemplo: o cadastro dos fornecedore pode servir para ajudar a identificar de onde vem cada produto, mas não necessariamente será utilizado no sistema de monitoramento de vendas, conforme o cliente especificou não ser necessário.
+
+Além disso, este sistema também deverá contar com uma agenda intera para agendamento de serviços, contendo informações como nome do cliente, CPF do cliente e nome do pet do cliente. 
+
+O sistema deverá aceitar cartão de crédito, cartão de débito, pix e dinheiro como forma de pagamento.
+
+Como citado de forma breve anteriormente, o sistema também terá um módulo de gerenciamento de vendas, que armazenará em um banco de dados as informações de venda de cada um dos produtos e serviços, facilitando a gestão de entrada e saída dos mesmos. Constará neste banco de dados, também, qual a forma retirada dos produtos: pessoalmente ou por entrega, facilitando a decisão de comprar ou não novos veículos de entrega.
